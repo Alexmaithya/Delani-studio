@@ -11,8 +11,10 @@ h1{
 .header{
     background-image: url(image/img/img/img1.jpg);
     background-size: 100%;
+    line-height: 6;
 }
 .header2{
     background-image: url(image/img/img/image2.jpg);
     background-size: 100%;
+    color: aliceblue;
 }
