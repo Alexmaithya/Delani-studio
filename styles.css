@@ -1,0 +1,12 @@
+body{
+    background-image: url(image/img/img/img1.jpg);
+    text-align: center;
+    background-size: 100%;
+}
+image{
+    align-self: center;
+}
+h1{
+    color: aliceblue;
+    font-size: xx-large;
+}
