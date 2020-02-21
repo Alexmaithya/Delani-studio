@@ -2,7 +2,7 @@
 body{
     text-align: center;
     background-size: 100%;
-    
+
 }
 h1{
     color: aliceblue;
@@ -10,5 +10,9 @@ h1{
 } 
 .header{
     background-image: url(image/img/img/img1.jpg);
+    background-size: 100%;
+}
+.header2{
+    background-image: url(image/img/img/image2.jpg);
     background-size: 100%;
 }
