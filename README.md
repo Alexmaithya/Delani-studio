@@ -16,4 +16,4 @@ https://alexmaithya.github.io/Delani-studio/
 - html
 - css
 ###### license
-licence
+/home/alex/Documents/ip/licence
