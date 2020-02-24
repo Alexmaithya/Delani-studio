@@ -21,3 +21,11 @@ h1{
 .header5{
     background-image: url(image/img/img/image3.jpg);
 }
+.header3{
+    text-align: center;
+   display: inline;
+   background-size: 100%; 
+}
+.header3 div p{
+    display: none;
+}
