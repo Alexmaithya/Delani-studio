@@ -1,8 +1,9 @@
 $(document).ready(function(){
     $(".img").click(function(){
-    $(".img").hide();
-    $(".showing").show();
-});
-$(".showing").click(function(){
-    $(".img")
-}
+        $(".img").hide();
+        $(".showing").show();
+    });
+    $(".showing").click(function(){
+        $(".showing").hide();
+        $(".img").show();
+    });
